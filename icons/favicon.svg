@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Cube Tac">
+  <rect width="64" height="64" rx="12" fill="#07080c"/>
+  <g stroke="#96d6ff" stroke-width="2.4" fill="rgba(70,120,180,0.32)" stroke-linejoin="round">
+    <path d="M32 10 54 21 32 32 10 21Z"/>
+    <path d="M32 21 54 32 32 43 10 32Z" opacity="0.8"/>
+    <path d="M32 32 54 43 32 54 10 43Z" opacity="0.6"/>
+  </g>
+  <circle cx="32" cy="32" r="4.2" fill="#ff8a3d"/>
+</svg>
